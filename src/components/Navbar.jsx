@@ -33,7 +33,7 @@ const Navbar = () => {
   return (
     <div className="rounded-div flex items-center justify-between h-24 font-bold">
       <Link to="/">
-        <h1 className="text-2xl">CoinHangar</h1>
+        <h1 className="text-2xl">SUICAP</h1>
       </Link>
       <div className="hidden md:block">
         <ThemeToggle />
