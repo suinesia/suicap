@@ -76,7 +76,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="text-center py-4 text-gray-500 text-sm">
-        Powered by Coin Gecko
+        Powered by suinesia
       </p>
     </div>
   );
